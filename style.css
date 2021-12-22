@@ -1,0 +1,13 @@
+#funcionamento {
+  color: darkgray;
+  font-family: sans-serif;
+}
+
+.task-selected {
+  background-color: gray;
+}
+
+/** Source: https://www.w3schools.com/cssref/tryit.asp?filename=trycss_text-decoration */
+.completed {
+  text-decoration: line-through;
+}
